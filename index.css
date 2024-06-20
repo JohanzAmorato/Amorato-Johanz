@@ -1,3 +1,12 @@
+
+
+body{
+    background-image: url(blue.jpg);
+    background-repeat:no-repeat;
+    background-size: cover ;
+}
+
+
 header {
     text-align: center;
 }
@@ -27,12 +36,29 @@ footer {
 .container img{
     position: absolute;
     top: 0;
-    right:25%;
+    right:5%;
     width: 10%;
-    height:100%;
-    margin-right: 2%;
+    height:200%;
+    margin-right: 1%;
 }
 
 .container-content {
     margin-top: 2%;
 }
+
+.contact {
+    text-align: center; 
+    margin-top: 50px; 
+}
+
+.contact a {
+    display: block;
+    margin-bottom: 20px; 
+    color: #0a0; 
+    text-decoration: none; 
+}
+
+.contact a i {
+    margin-right: 5px; 
+}
+
