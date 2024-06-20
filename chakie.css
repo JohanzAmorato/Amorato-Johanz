@@ -1,0 +1,12 @@
+body{
+    background-image: url(56.jpg);
+    background-repeat:no-repeat;
+    background-size: cover ;
+    justify-items: center;
+}
+
+.SupChakie{
+    width: 400px;
+    height: 600;
+    justify-content: center;
+}
